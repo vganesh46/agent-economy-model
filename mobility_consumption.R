@@ -4,7 +4,6 @@
 library(SpatialTools)
 library(FNN)
 library(ggplot2)
-library(gridExtra)
 library(dplyr)
 library(tidyr)
 
